@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- * main - prints "A program that prints a new line with printf"
+ * main A program that prints a new line with prinf
  * Return: 0
- *
  */
 
 int main(void)
